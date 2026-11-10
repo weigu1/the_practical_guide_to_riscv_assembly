@@ -1,13 +1,13 @@
-# A Makers's Guide to RISC-V Assembly
+# The Practical Guide to RISC-V Assembly
 
-## RISC-V Bare Metal Programming with the Raspberry Pi Pico 2
+## Bare-Metal Programming with the Raspberry Pi Pico 2
 
-**[TOC](A_Makers_Guide_to_RISC-V_Assembly_TOC.pdf)**
+**[TOC](The_Practical_Guide_to_RISC-V_Assembly_TOC.pdf)**
 
-**[TOC 3 level](A_Makers_Guide_to_RISC-V_Assembly_TOC_3.pdf)**
+**[TOC 3 level](The_Practical_Guide_to_RISC-V_Assembly_TOC_3.pdf)**
 
 More information:
 
-<https://www.weigu.lu/books_tutorials/maker_2_riscv/index.html>
+<https://www.weigu.lu/books_tutorials/guide_2_riscv/index.html>
 
 
